@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'agent',
     'customer',
     'tatuadmin',
+    'bootstrap4',
 ]
 
 MIDDLEWARE = [
