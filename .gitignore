@@ -1,0 +1,12 @@
+.env
+*.pyc
+venv/
+virtual/
+env/
+incident/settings.py
+*migrations
+customer/migrations/
+agent/migrations/
+admin/migrations/
+virtual/
+chat/migrations/
