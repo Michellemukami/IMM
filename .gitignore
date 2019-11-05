@@ -7,6 +7,6 @@ incident/settings.py
 *migrations
 customer/migrations/
 agent/migrations/
-admin/migrations/
+tatuadmin/migrations/
 virtual/
 chat/migrations/
